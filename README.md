@@ -265,12 +265,6 @@ The accuracy and reliability of this model have not been clinically validated. A
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📧 Questions or Feedback?
 
 Feel free to open an **Issue** or reach out through GitHub discussions. We'd love to hear about your experience using this project!
