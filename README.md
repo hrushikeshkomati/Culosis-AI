@@ -8,7 +8,6 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-100%25-purple?logo=kotlin)](https://kotlinlang.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-Lite-orange?logo=tensorflow)](https://www.tensorflow.org/lite)
 [![Research](https://img.shields.io/badge/Status-Research-blue)]()
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
 
