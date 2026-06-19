@@ -103,51 +103,6 @@ Culosis-AI/
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- **Android Studio** (latest version recommended)
-- **Android SDK 30+** (for compilation)
-- **Kotlin 1.8+**
-- **Gradle 7.0+**
-- **JDK 11+**
-- An Android device or emulator running Android 8.0 or higher
-
-### Installation & Setup
-
-#### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/hrushikeshkomati/Culosis-AI.git
-cd Culosis-AI
-```
-
-#### 2️⃣ Open in Android Studio
-
-- Open Android Studio
-- Select **File → Open**
-- Navigate to the `Culosis-AI` directory and click **Open**
-- Wait for Gradle sync to complete
-
-#### 3️⃣ Build the Project
-
-```bash
-./gradlew build
-```
-
-Or use Android Studio's **Build → Make Project**
-
-#### 4️⃣ Run on Device/Emulator
-
-```bash
-./gradlew installDebug
-```
-
-Or click **Run → Run 'app'** in Android Studio
-
----
-
 ## 📱 Usage
 
 ### Basic Workflow
